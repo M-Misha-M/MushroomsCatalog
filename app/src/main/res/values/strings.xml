@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MushroomsBook</string>
+    <string name="title_activity_google_maps">Map</string>
+    <string name="title_activity_information">Information</string>
+    <string name="searchable">Test</string>
+    <string name="share">Menu</string>
+    <string name="action_search">Find</string>
+
+
+    <string-array name="mushrooms">
+        <item>Білий гриб</item>
+        <item>Моховик</item>
+        <item>Лисички</item>
+        <item>Опеньки</item>
+        <item>Маслюк</item>
+        <item>Підберезник</item>
+        <item>Рижик</item>
+        <item>Підосичник</item>
+        <item>Їжовик жовтуватий</item>
+        <item>Глива</item>
+        <item>Печериця садова</item>
+        <item>Гладиш звичайний</item>
+        <item>Ковпак кільчастий</item>
+        <item>Груздь</item>
+
+
+    </string-array>
+</resources>
